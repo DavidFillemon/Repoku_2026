@@ -1,2 +1,3 @@
 Ini adalah file kedua.
 Saya sedang mencoba membuat repository lokal.
+File kedua juga sudah diedit melalui GitHub.
