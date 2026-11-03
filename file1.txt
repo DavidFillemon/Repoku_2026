@@ -1,2 +1,4 @@
 Ini adalah file pertama.
 Saya sedang belajar Git dan GitHub.
+File ini sudah diedit melalui GitHub dan komputer lokal.
+Saya sedang mencoba fitur branch.
